@@ -1,0 +1,4 @@
+{
+  "practice/test_contracts.py::test_library_from_code": true,
+  "practice/test_contracts.py::test_library_from_file": true
+}
